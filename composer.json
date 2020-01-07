@@ -1,0 +1,15 @@
+{
+    "name": "babyplant/vendor-reserve",
+    "description": "Reserving the babyplant vendor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Babyplant",
+            "email": "informatica@babyplant.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "prefer-stable": true
+}
